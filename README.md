@@ -109,7 +109,7 @@ glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA | GLUT_DEPTH | GLUT_MULTISAMPLE)
 
 glutInitWindowSize(1024,1024)
 
-glutCreateWindow("Nuvem De Pontos")
+glutCreateWindow(" Paraboloide ")
 
 glutDisplayFunc(desenha)
 
@@ -217,7 +217,7 @@ glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA | GLUT_DEPTH | GLUT_MULTISAMPLE)
 
 glutInitWindowSize(600,600)
 
-glutCreateWindow("Esfera")
+glutCreateWindow(" Paraboloide ")
 
 glutDisplayFunc(desenha)
 
